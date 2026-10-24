@@ -1,0 +1,10 @@
+{
+  "description": "A premium B2B wholesale e-commerce platform for mobile parts and accessories, enabling approved businesses to browse, order in bulk, and manage invoices efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
